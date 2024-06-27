@@ -1,6 +1,5 @@
-> # THIS PROJECT HAS BEEN MOVED
-> # This repository is now deprecated, it will not recieve any more updates.
-> # The count-mvs tool is now developed here: <https://github.com/IBM/count-mvs>
+> # This repository is deprecated and will receive no further updates.
+> # A new version of the count-mvs tool is located at [IBM Fix Central](https://www.ibm.com/support/fixcentral/swg/selectFixes?product=ibm%2FOther+software%2FIBM+Security+QRadar+SIEM&fixids=MVS+Version%2A&source=SAR&function=fixId&parent=IBM%20Security).
 
 # countMVS.py
 
